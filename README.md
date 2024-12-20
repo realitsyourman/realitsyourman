@@ -23,13 +23,9 @@
 
 <br>
 
-<h3 align="center">etc</h3>
+<h3 align="center">Blog</h3>
 <div align="center">
   <a href="https://realits.me/">
-    <img src="https://img.shields.io/badge/github blog-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:realitsyourman@gmail.com">
-    <img
-      src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/github blog-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
