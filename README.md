@@ -3,11 +3,6 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=180&section=header&text=WONGIL&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer&descAlignY=52&descAlign=50" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=435&lines=Spring+Boot+Backend+Developer;Clean+Code+%26+TDD+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</a>
-
 <br/><br/>
 
 <!-- Tech Stack Icons - techstack-generator -->
@@ -16,8 +11,6 @@
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" height="60" />
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="60" height="60" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="60" height="60" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
 
 </div>
 
@@ -86,14 +79,6 @@ public class Wongil extends Developer {
 
 ## GitHub Stats
 
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=realitsyourman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=c9d1d9" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realitsyourman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" height="180"/>
-
-</div>
-
 <br/>
 
 <div align="center">
@@ -104,13 +89,6 @@ public class Wongil extends Developer {
 </div>
 
 <br/>
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=realitsyourman&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-
-</div>
 
 ---
 
@@ -124,13 +102,6 @@ public class Wongil extends Developer {
 </div>
 
 <br/>
-
-<div align="center">
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/realitsyourman/realitsyourman/output/github-snake-dark.svg"/>
-
-</div>
 
 ---
 
