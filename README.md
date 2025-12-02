@@ -28,7 +28,7 @@ public class Wongil extends Developer {
     public String[] getTechStack() {
         return new String[] {
             "Java", "Spring Boot", "Spring Security",
-            "JPA/Hibernate", "PostgreSQL", "Redis",
+            "JPA/Hibernate", "PostgreSQL",
             "Docker", "AWS", "GitHub Actions"
         };
     }
@@ -119,30 +119,6 @@ public class Wongil extends Developer {
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
----
-
-## Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realitsyourman&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=realitsyourman&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realitsyourman&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=realitsyourman&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=realitsyourman&theme=tokyonight&utcOffset=9"/>
-
-</div>
 
 ---
 
