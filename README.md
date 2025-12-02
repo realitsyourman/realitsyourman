@@ -34,7 +34,7 @@ $ whoami
 realitsyourman
 
 $ cat about.txt
-Backend Developer from Korea 🇰🇷
+Backend Developer from Korea
 Passionate about clean code and scalable systems
 
 $ ls skills/
@@ -53,7 +53,7 @@ https://realits.me
   
 ```java
 /**
- * 개발자 프로필
+ * Developer Profile
  * @author realitsyourman
  */
 public class Developer {
@@ -81,7 +81,7 @@ public class Developer {
 <br>
 
 <!-- Tech Stack -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -113,7 +113,7 @@ public class Developer {
 <br>
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realitsyourman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&rank_icon=github" height="180" />
@@ -175,7 +175,7 @@ public class Developer {
 <br>
 
 <!-- Connect -->
-## 🔗 Connect with Me
+## Connect with Me
 
 <div align="center">
   <a href="https://realits.me">
