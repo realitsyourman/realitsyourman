@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=WONGIL&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer&descAlignY=52&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=180&section=header&text=WONGIL&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer&descAlignY=52&descAlign=50" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
