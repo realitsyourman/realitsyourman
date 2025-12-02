@@ -118,6 +118,39 @@ public class Wongil extends Developer {
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-164-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 48.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,053 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I Mostly Code in Java** 
+
+```text
+Java                     10 repos            ██████████████████░░░░░░░   71.43 % 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
+
+
+ Last Updated on 02/12/2025 19:00:35 UTC
 <!--END_SECTION:waka-->
 
 ---
