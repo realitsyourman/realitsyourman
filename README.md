@@ -61,7 +61,6 @@ public class Wongil extends Developer {
 
 ### Database
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 ### DevOps & Cloud
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -165,4 +164,4 @@ public class Wongil extends Developer {
 </div>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
