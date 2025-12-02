@@ -20,7 +20,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%92%BB+Spring+Boot+Backend+Developer;%E2%9C%A8+Clean+Code+%26+TDD+Enthusiast;%F0%9F%9A%80+Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Spring+Boot+Backend+Developer;Clean+Code+%26+TDD+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,12 +28,27 @@
 
 <!-- Terminal Style Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=%24+whoami;realitsyourman;%24+cat+about.txt;Backend+Developer+from+Korea+%F0%9F%87%B0%F0%9F%87%B7;%24+ls+skills%2F;java+spring+postgresql+docker+aws;%24+echo+%24BLOG;https%3A%2F%2Frealits.me" alt="Terminal" />
+  
+```bash
+$ whoami
+realitsyourman
+
+$ cat about.txt
+Backend Developer from Korea 🇰🇷
+Passionate about clean code and scalable systems
+
+$ ls skills/
+java  spring-boot  postgresql  docker  aws
+
+$ echo $BLOG
+https://realits.me
+```
+
 </div>
 
 <br>
 
-<!-- GitHub Stats Terminal Style -->
+<!-- GitHub Stats Terminal Style - Java Code Block -->
 <div align="center">
   
 ```java
@@ -43,13 +58,13 @@
  */
 public class Developer {
     
-    private String name = "Wongil";
-    private String role = "Backend Developer";
-    private String[] languages = {"Java", "SQL"};
-    private String[] frameworks = {"Spring Boot", "Spring Security", "JPA"};
-    private String[] databases = {"PostgreSQL", "Redis"};
-    private String[] devOps = {"Docker", "AWS", "GitHub Actions"};
-    private String blog = "https://realits.me";
+    private final String name = "Wongil";
+    private final String role = "Backend Developer";
+    private final String[] languages = {"Java", "SQL"};
+    private final String[] frameworks = {"Spring Boot", "Spring Security", "JPA"};
+    private final String[] databases = {"PostgreSQL", "Redis"};
+    private final String[] devOps = {"Docker", "AWS", "GitHub Actions"};
+    private final String blog = "https://realits.me";
     
     public String getCurrentFocus() {
         return "Building scalable backend systems with Spring Boot";
@@ -69,37 +84,29 @@ public class Developer {
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-</div>
 
-<br>
-
-<div align="center">
-
-### Backend & Frameworks
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ### Database & Cache
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Cloud
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Tools
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -131,44 +138,15 @@ public class Developer {
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realitsyourman&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realitsyourman&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 </div>
 
 <br>
-
-<!-- 3D Contribution Calendar - Placeholder -->
-<!-- 
-GitHub Action 설정 후 자동 생성됩니다.
-.github/workflows/profile-3d-contrib.yml 파일 생성 필요
--->
 
 <!-- Snake Animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realitsyourman/realitsyourman/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/realitsyourman/realitsyourman/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/realitsyourman/realitsyourman/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/realitsyourman/realitsyourman/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
-
-<br>
-
-<!-- WakaTime Stats -->
-## ⏰ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-🕐 아직 WakaTime이 설정되지 않았습니다.
-
-📌 WakaTime 설정 방법:
-1. https://wakatime.com 에서 계정 생성
-2. IDE에 WakaTime 플러그인 설치
-3. API Key 설정
-4. GitHub Action으로 자동 업데이트 설정
-
-⏳ 설정 완료 후 이 섹션이 자동으로 업데이트됩니다.
-```
-<!--END_SECTION:waka-->
 
 <br>
 
@@ -205,9 +183,6 @@ GitHub Action 설정 후 자동 생성됩니다.
   </a>
   <a href="https://github.com/realitsyourman">
     <img src="https://img.shields.io/badge/GitHub-realitsyourman-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
