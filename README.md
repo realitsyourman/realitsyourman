@@ -1,18 +1,3 @@
-<div align="center">
-
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=180&section=header&text=WONGIL&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer&descAlignY=52&descAlign=50" width="100%"/>
-
-<br/><br/>
-
-<!-- Tech Stack Icons - techstack-generator -->
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60" height="60" />
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="60" height="60" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" height="60" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="60" height="60" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />
-
-</div>
 
 ---
 
@@ -21,14 +6,14 @@
 ```java
 public class Wongil extends Developer {
 
-    private final String location = "Seoul, Korea";
+    private final String location = "Incheon, Korea";
     private final String blog = "https://realits.me";
     
     @Override
     public String[] getTechStack() {
         return new String[] {
             "Java", "Spring Boot", "Spring Security",
-            "JPA/Hibernate", "PostgreSQL",
+            "JPA", "PostgreSQL",
             "Docker", "AWS", "GitHub Actions"
         };
     }
@@ -45,39 +30,6 @@ public class Wongil extends Developer {
 }
 ```
 
----
-
-## Tech Stack
-
-<div align="center">
-
-### Backend
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
-
-### Database
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-### DevOps & Cloud
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-### Tools
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-
-</div>
-
----
-
-## GitHub Stats
-
 <br/>
 
 <div align="center">
@@ -91,8 +43,6 @@ public class Wongil extends Developer {
 
 ---
 
-## Activity
-
 <div align="center">
 
 <!-- Activity Graph -->
@@ -104,8 +54,6 @@ public class Wongil extends Developer {
 
 ---
 
-## 3D Contribution
-
 <div align="center">
 
 <!-- 3D Contribution Calendar - GitHub Action으로 생성됨 -->
@@ -114,8 +62,6 @@ public class Wongil extends Developer {
 </div>
 
 ---
-
-## WakaTime Stats
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-165-blue)
