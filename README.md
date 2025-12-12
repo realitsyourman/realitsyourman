@@ -109,17 +109,13 @@ Sunday                   184 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     4 hrs 38 mins       ██████████████████░░░░░░░   73.99 % 
-Markdown                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 15 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 hrs 15 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -138,7 +134,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2025 18:58:43 UTC
+ Last Updated on 12/12/2025 18:57:59 UTC
 <!--END_SECTION:waka-->
 
 ---
