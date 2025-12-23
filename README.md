@@ -64,7 +64,7 @@ public class Wongil extends Developer {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -72,9 +72,9 @@ public class Wongil extends Developer {
 
 **🐱 My GitHub Data** 
 
-> 📦 49.0 kB Used in GitHub's Storage 
+> 📦 49.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,230 Contributions in the Year 2025
+> 🏆 1,238 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,21 +85,21 @@ public class Wongil extends Developer {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4683 commits        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-🌆 Daytime                16587 commits       █████████████████░░░░░░░░   68.80 % 
-🌃 Evening                2732 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+🌞 Morning                4700 commits        █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+🌆 Daytime                16832 commits       █████████████████░░░░░░░░   68.99 % 
+🌃 Evening                2757 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 🌙 Night                  107 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   4143 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Tuesday                  4596 commits        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Wednesday                4279 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Thursday                 3793 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Friday                   6612 commits        ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-Saturday                 502 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Sunday                   184 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Monday                   4209 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Tuesday                  4631 commits        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Wednesday                4381 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Thursday                 3814 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Friday                   6675 commits        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+Saturday                 502 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Sunday                   184 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
 
@@ -109,17 +109,17 @@ Sunday                   184 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     12 hrs 52 mins      ██████████████░░░░░░░░░░░   56.51 % 
-Kotlin                   4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-YAML                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Java                     10 hrs 21 mins      ███████████░░░░░░░░░░░░░░   44.60 % 
+Kotlin                   9 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.81 % 
+YAML                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Bash                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-IntelliJ IDEA            22 hrs 46 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            23 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -138,7 +138,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2025 18:59:24 UTC
+ Last Updated on 23/12/2025 18:58:42 UTC
 <!--END_SECTION:waka-->
 
 ---
