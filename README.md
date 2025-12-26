@@ -109,17 +109,17 @@ Sunday                   184 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   10 hrs 25 mins      ██████████████░░░░░░░░░░░   55.11 % 
-Java                     5 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-YAML                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Kotlin                   10 hrs 1 min        █████████████████░░░░░░░░   67.24 % 
+Java                     2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+YAML                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-IntelliJ IDEA            18 hrs 54 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            14 hrs 54 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -138,7 +138,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2025 18:59:45 UTC
+ Last Updated on 26/12/2025 18:58:45 UTC
 <!--END_SECTION:waka-->
 
 ---
