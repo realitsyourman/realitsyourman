@@ -72,7 +72,7 @@ public class Wongil extends Developer {
 
 **🐱 My GitHub Data** 
 
-> 📦 49.2 kB Used in GitHub's Storage 
+> 📦 49.3 kB Used in GitHub's Storage 
  > 
 > 🏆 1,240 Contributions in the Year 2025
  > 
@@ -138,7 +138,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2025 18:58:45 UTC
+ Last Updated on 27/12/2025 18:58:03 UTC
 <!--END_SECTION:waka-->
 
 ---
