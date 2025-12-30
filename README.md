@@ -64,7 +64,7 @@ public class Wongil extends Developer {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -74,7 +74,7 @@ public class Wongil extends Developer {
 
 > 📦 49.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,255 Contributions in the Year 2025
+> 🏆 1,256 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,17 +109,17 @@ Sunday                   184 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   6 hrs 34 mins       ████████████░░░░░░░░░░░░░   47.59 % 
-Java                     3 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-YAML                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Java                     9 hrs 6 mins        ████████████████░░░░░░░░░   65.54 % 
+Kotlin                   1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+YAML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-IntelliJ IDEA            13 hrs 48 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            13 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -138,7 +138,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2025 18:59:34 UTC
+ Last Updated on 30/12/2025 19:01:01 UTC
 <!--END_SECTION:waka-->
 
 ---
