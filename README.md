@@ -80,46 +80,6 @@ public class Wongil extends Developer {
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4740 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-🌆 Daytime                17092 commits       █████████████████░░░░░░░░   69.14 % 
-🌃 Evening                2781 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-🌙 Night                  107 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   4305 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Tuesday                  4658 commits        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Wednesday                4498 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Thursday                 3835 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Friday                   6738 commits        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-Saturday                 502 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Sunday                   184 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Java                     14 hrs 17 mins      █████████████████████░░░░   82.82 % 
-YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Kotlin                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Shell Script             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-
-🔥 Editors: 
-IntelliJ IDEA            17 hrs 15 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      17 hrs 15 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -136,7 +96,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 19:01:15 UTC
+ Last Updated on 03/01/2026 18:59:07 UTC
 <!--END_SECTION:waka-->
 
 ---
