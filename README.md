@@ -64,17 +64,17 @@ public class Wongil extends Developer {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.11%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 50.2 kB Used in GitHub's Storage 
  > 
-> 🏆 305 Contributions in the Year 2026
+> 🏆 323 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,21 +85,21 @@ public class Wongil extends Developer {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9082 commits        ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-🌆 Daytime                26065 commits       █████████████████░░░░░░░░   66.50 % 
-🌃 Evening                3940 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-🌙 Night                  109 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+🌞 Morning                9320 commits        ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+🌆 Daytime                26549 commits       █████████████████░░░░░░░░   66.31 % 
+🌃 Evening                4059 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+🌙 Night                  109 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   8034 commits        █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Tuesday                  7406 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Wednesday                9002 commits        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-Thursday                 5704 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Friday                   8234 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Saturday                 630 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Sunday                   186 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Monday                   8218 commits        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Tuesday                  7564 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Wednesday                9203 commits        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+Thursday                 5860 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Friday                   8376 commits        █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+Saturday                 630 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Sunday                   186 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 
@@ -109,26 +109,26 @@ Sunday                   186 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     20 hrs 13 mins      ███████████████████████░░   93.48 % 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Docker                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Groovy                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Dotenv                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Java                     19 hrs 9 mins       ██████████████████████░░░   89.95 % 
+YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Docker                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Dotenv                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Groovy                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-IntelliJ IDEA            21 hrs 38 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            21 hrs 17 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      21 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     11 repos            ██████████████░░░░░░░░░░░   57.89 % 
-TypeScript               6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Java                     10 repos            ██████████████░░░░░░░░░░░   55.56 % 
+TypeScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
@@ -138,7 +138,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2026 19:18:25 UTC
+ Last Updated on 22/01/2026 19:08:35 UTC
 <!--END_SECTION:waka-->
 
 ---
