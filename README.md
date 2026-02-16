@@ -72,7 +72,7 @@ public class Wongil extends Developer {
 
 **🐱 My GitHub Data** 
 
-> 📦 51.0 kB Used in GitHub's Storage 
+> 📦 51.1 kB Used in GitHub's Storage 
  > 
 > 🏆 1,070 Contributions in the Year 2026
  > 
@@ -109,17 +109,17 @@ Sunday                   186 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     9 hrs 5 mins        ███████████████░░░░░░░░░░   60.57 % 
-YAML                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Markdown                 1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-SQL                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Java                     6 hrs 12 mins       ████████████████░░░░░░░░░   63.87 % 
+YAML                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+SQL                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 🔥 Editors: 
-IntelliJ IDEA            15 hrs              █████████████████████████   100.00 % 
+IntelliJ IDEA            9 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs              █████████████████████████   100.00 % 
+Mac                      9 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -138,7 +138,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2026 19:14:43 UTC
+ Last Updated on 16/02/2026 19:23:51 UTC
 <!--END_SECTION:waka-->
 
 ---
