@@ -109,17 +109,17 @@ Sunday                   186 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     6 hrs 12 mins       ████████████████░░░░░░░░░   63.87 % 
-YAML                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-SQL                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Java                     3 hrs 14 mins       ██████████████░░░░░░░░░░░   56.61 % 
+Markdown                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+YAML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+SQL                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 42 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            5 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -138,7 +138,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2026 19:23:51 UTC
+ Last Updated on 17/02/2026 19:47:47 UTC
 <!--END_SECTION:waka-->
 
 ---
