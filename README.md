@@ -74,7 +74,7 @@ public class Wongil extends Developer {
 
 > 📦 51.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,070 Contributions in the Year 2026
+> 🏆 1,072 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,7 +87,7 @@ public class Wongil extends Developer {
 ```text
 🌞 Morning                22344 commits       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
 🌆 Daytime                54384 commits       ████████████████░░░░░░░░░   63.57 % 
-🌃 Evening                8021 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+🌃 Evening                8023 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 🌙 Night                  795 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -95,9 +95,9 @@ public class Wongil extends Developer {
 ```text
 Monday                   19047 commits       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
 Tuesday                  22005 commits       ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-Wednesday                17062 commits       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Wednesday                17064 commits       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
 Thursday                 13068 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Friday                   13546 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Friday                   13546 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
 Saturday                 630 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 Sunday                   186 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
@@ -109,17 +109,17 @@ Sunday                   186 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     3 hrs 14 mins       ██████████████░░░░░░░░░░░   56.61 % 
-Markdown                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-YAML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-SQL                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Java                     57 mins             ███████████░░░░░░░░░░░░░░   43.46 % 
+YAML                     25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Markdown                 23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Bash                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Shell Script             10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 43 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -138,7 +138,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2026 19:47:47 UTC
+ Last Updated on 18/02/2026 19:46:58 UTC
 <!--END_SECTION:waka-->
 
 ---
