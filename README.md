@@ -64,7 +64,7 @@ public class Wongil extends Developer {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -72,7 +72,7 @@ public class Wongil extends Developer {
 
 **🐱 My GitHub Data** 
 
-> 📦 51.4 kB Used in GitHub's Storage 
+> 📦 51.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1,461 Contributions in the Year 2026
  > 
@@ -141,7 +141,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2026 19:26:23 UTC
+ Last Updated on 28/02/2026 19:11:11 UTC
 <!--END_SECTION:waka-->
 
 ---
