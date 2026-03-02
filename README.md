@@ -109,19 +109,19 @@ Sunday                   186 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               3 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.55 % 
-Java                     1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-TOML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+TypeScript               3 hrs 42 mins       █████████████░░░░░░░░░░░░   53.32 % 
+Java                     1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+TOML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+GitIgnore file           16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-WebStorm                 4 hrs 32 mins       ███████████████░░░░░░░░░░   58.16 % 
-IntelliJ IDEA            1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-RustRover                1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+WebStorm                 4 hrs 32 mins       ████████████████░░░░░░░░░   65.22 % 
+IntelliJ IDEA            1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+RustRover                45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
 
 💻 Operating System: 
-Mac                      7 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -141,7 +141,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2026 19:13:36 UTC
+ Last Updated on 02/03/2026 19:29:29 UTC
 <!--END_SECTION:waka-->
 
 ---
