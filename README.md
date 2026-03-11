@@ -64,17 +64,17 @@ public class Wongil extends Developer {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.50%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 51.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,650 Contributions in the Year 2026
+> 🏆 1,687 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,19 +85,19 @@ public class Wongil extends Developer {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                29999 commits       ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-🌆 Daytime                71813 commits       ████████████████░░░░░░░░░   63.37 % 
-🌃 Evening                10258 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+🌞 Morning                30209 commits       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+🌆 Daytime                72256 commits       ████████████████░░░░░░░░░   63.35 % 
+🌃 Evening                10335 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 🌙 Night                  1261 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   23961 commits       █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-Tuesday                  29217 commits       ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-Wednesday                22258 commits       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Thursday                 20485 commits       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Friday                   16536 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Monday                   24034 commits       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+Tuesday                  29367 commits       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+Wednesday                22493 commits       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Thursday                 20630 commits       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Friday                   16663 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 Saturday                 646 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 Sunday                   228 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
@@ -109,18 +109,18 @@ Sunday                   228 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     57 mins             ████████░░░░░░░░░░░░░░░░░   33.59 % 
-TypeScript               42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-GitIgnore file           30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Image (svg)              11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Java                     38 mins             ███████████░░░░░░░░░░░░░░   44.62 % 
+GitIgnore file           21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+Markdown                 19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+TypeScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 39 mins        ███████████████░░░░░░░░░░   58.24 % 
-WebStorm                 1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   41.76 % 
+IntelliJ IDEA            1 hr 9 mins         ████████████████████░░░░░   79.90 % 
+WebStorm                 17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
 
 💻 Operating System: 
-Mac                      2 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -140,7 +140,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2026 19:33:36 UTC
+ Last Updated on 11/03/2026 19:35:08 UTC
 <!--END_SECTION:waka-->
 
 ---
