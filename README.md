@@ -68,7 +68,7 @@ public class Wongil extends Developer {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.71%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.82%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -85,19 +85,19 @@ public class Wongil extends Developer {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                30371 commits       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-🌆 Daytime                72644 commits       ████████████████░░░░░░░░░   63.35 % 
-🌃 Evening                10398 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+🌞 Morning                30459 commits       ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+🌆 Daytime                72812 commits       ████████████████░░░░░░░░░   63.33 % 
+🌃 Evening                10440 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 🌙 Night                  1261 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   24114 commits       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Tuesday                  29483 commits       ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-Wednesday                22647 commits       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Thursday                 20791 commits       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Friday                   16765 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Monday                   24172 commits       █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Tuesday                  29528 commits       ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+Wednesday                22725 commits       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Thursday                 20852 commits       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Friday                   16821 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 Saturday                 646 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 Sunday                   228 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
@@ -109,18 +109,18 @@ Sunday                   228 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-GitIgnore file           17 mins             ███████████░░░░░░░░░░░░░░   42.88 % 
-Java                     16 mins             ██████████░░░░░░░░░░░░░░░   40.84 % 
-TypeScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Java                     16 mins             ███████████░░░░░░░░░░░░░░   45.67 % 
+GitIgnore file           12 mins             █████████░░░░░░░░░░░░░░░░   35.61 % 
+TypeScript               6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-IntelliJ IDEA            30 mins             ██████████████████░░░░░░░   73.20 % 
-WebStorm                 11 mins             ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+IntelliJ IDEA            28 mins             ████████████████████░░░░░   81.08 % 
+WebStorm                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+Mac                      35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -140,7 +140,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2026 19:36:14 UTC
+ Last Updated on 13/03/2026 19:30:23 UTC
 <!--END_SECTION:waka-->
 
 ---
