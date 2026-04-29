@@ -68,38 +68,38 @@ public class Wongil extends Developer {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-178.92%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-199.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 53.9 kB Used in GitHub's Storage 
+> 📦 54.0 kB Used in GitHub's Storage 
  > 
-> 🏆 4,142 Contributions in the Year 2026
+> 🏆 4,265 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                62655 commits       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-🌆 Daytime                186712 commits      ██████████████░░░░░░░░░░░   54.88 % 
-🌃 Evening                66896 commits       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-🌙 Night                  23969 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+🌞 Morning                65761 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+🌆 Daytime                201691 commits      ██████████████░░░░░░░░░░░   54.71 % 
+🌃 Evening                74542 commits       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+🌙 Night                  26669 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   61341 commits       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Tuesday                  61091 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Wednesday                64030 commits       █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-Thursday                 73861 commits       █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-Friday                   55133 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Saturday                 7503 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Sunday                   17273 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Monday                   65563 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Tuesday                  65192 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Wednesday                69079 commits       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Thursday                 81310 commits       ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Friday                   60625 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Saturday                 8277 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Sunday                   18617 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 
 
@@ -121,11 +121,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            ██████████░░░░░░░░░░░░░░░   40.38 % 
-Java                     13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TypeScript               19 repos            █████████░░░░░░░░░░░░░░░░   37.25 % 
+Java                     13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
@@ -135,7 +135,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2026 21:10:29 UTC
+ Last Updated on 29/04/2026 21:36:45 UTC
 <!--END_SECTION:waka-->
 
 ---
