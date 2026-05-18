@@ -64,15 +64,17 @@ public class Wongil extends Developer {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2044%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-188.08%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-243.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 54.4 kB Used in GitHub's Storage 
+> 📦 54.5 kB Used in GitHub's Storage 
  > 
-> 🏆 5,170 Contributions in the Year 2026
+> 🏆 5,217 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,6 +82,42 @@ public class Wongil extends Developer {
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                71787 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+🌆 Daytime                224079 commits      █████████████░░░░░░░░░░░░   53.91 % 
+🌃 Evening                87163 commits       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+🌙 Night                  32634 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   71400 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Tuesday                  72614 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Wednesday                78191 commits       █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Thursday                 92749 commits       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Friday                   68658 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Saturday                 11677 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Sunday                   20374 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -97,7 +135,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 20:36:18 UTC
+ Last Updated on 18/05/2026 23:38:56 UTC
 <!--END_SECTION:waka-->
 
 ---
