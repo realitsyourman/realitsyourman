@@ -64,42 +64,40 @@ public class Wongil extends Developer {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%205%20mins-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-294.39%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 54.6 kB Used in GitHub's Storage 
+> 📦 54.7 kB Used in GitHub's Storage 
  > 
-> 🏆 5,457 Contributions in the Year 2026
+> 🏆 5,820 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                73651 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-🌆 Daytime                229642 commits      █████████████░░░░░░░░░░░░   53.85 % 
-🌃 Evening                90165 commits       █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-🌙 Night                  33001 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+🌞 Morning                81737 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+🌆 Daytime                252247 commits      ██████████████░░░░░░░░░░░   54.06 % 
+🌃 Evening                97407 commits       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+🌙 Night                  35197 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   73140 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Tuesday                  74948 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Wednesday                80103 commits       █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Thursday                 94684 commits       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Friday                   70115 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Saturday                 12090 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Sunday                   21379 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Monday                   80825 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Tuesday                  80314 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Wednesday                88080 commits       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Thursday                 100721 commits      █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Friday                   79901 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Saturday                 12867 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Sunday                   23880 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 ```
 
 
@@ -109,31 +107,30 @@ Sunday                   21379 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Rust                     23 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   40.61 % 
-Markdown                 16 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-Go                       3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-TypeScript               2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Bash                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Markdown                 15 hrs 1 min        ██████████░░░░░░░░░░░░░░░   39.11 % 
+Rust                     9 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+TypeScript               3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Go                       3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Other                    2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 
 🔥 Editors: 
-Claude Code              40 hrs 10 mins      █████████████████░░░░░░░░   69.45 % 
-RustRover                12 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-GoLand                   2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-DataGrip                 1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Unknown Editor           27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Claude Code              26 hrs 32 mins      █████████████████░░░░░░░░   69.13 % 
+RustRover                6 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+GoLand                   3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+WebStorm                 1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 💻 Operating System: 
-Mac                      57 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            █████████░░░░░░░░░░░░░░░░   37.25 % 
-Java                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               25 repos            ███████████░░░░░░░░░░░░░░   42.37 % 
+Java                     12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
@@ -143,7 +140,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/realitsyourman/realitsyourman/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 00:11:06 UTC
+ Last Updated on 01/06/2026 22:47:29 UTC
 <!--END_SECTION:waka-->
 
 ---
