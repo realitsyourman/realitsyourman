@@ -24,7 +24,7 @@ I contribute to AI coding tools, from Korean terminal input to recovery paths th
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <h3><a href="https://github.com/stablyai/orca">Orca</a></h3>
 <p>Workspace for running coding agents across desktop, mobile, and remote runtimes.</p>
@@ -38,7 +38,9 @@ Followed up with a mirror model for live Korean input and verified composition o
 <a href="https://github.com/stablyai/orca/pull/7181">Original work · #7181</a> → <a href="https://github.com/stablyai/orca/pull/7273">Included in merged #7273</a></p>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%" valign="top">
 
 <h3><a href="https://github.com/Yeachan-Heo/gajae-code">Gajae-Code</a></h3>
 <p>Coding-agent harness with planning workflows, context management, and terminal interaction.</p>
