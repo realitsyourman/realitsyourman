@@ -22,40 +22,31 @@ Terminal UX · Korean IME · Coding-agent reliability
 
 I contribute to AI coding tools, from Korean terminal input to recovery paths that keep long-running agent sessions moving.
 
-<table>
-<tr>
-<td width="100%" valign="top">
+### [Orca](https://github.com/stablyai/orca)
 
-<h3><a href="https://github.com/stablyai/orca">Orca</a></h3>
-<p>Workspace for running coding agents across desktop, mobile, and remote runtimes.</p>
+AI coding-agent workspace for desktop, mobile, and remote runtimes.
 
-<p><strong>Android Korean IME composition</strong><br />
-Contributed Hangul input handling, ordered text/control sends, and regression coverage for the mobile terminal.<br />
-<a href="https://github.com/stablyai/orca/pull/7011">Merged · #7011</a></p>
+- **Android Korean IME composition** · [Merged #7011](https://github.com/stablyai/orca/pull/7011)
 
-<p><strong>Live Hangul input &amp; device QA</strong><br />
-Followed up with a mirror model for live Korean input and verified composition on a Galaxy Z Fold7 with Samsung Keyboard.<br />
-<a href="https://github.com/stablyai/orca/pull/7181">Original work · #7181</a> → <a href="https://github.com/stablyai/orca/pull/7273">Included in merged #7273</a></p>
+  Contributed Hangul input handling, ordered text/control sends, and mobile terminal regression coverage.
 
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
+- **Live Hangul input & device QA**
 
-<h3><a href="https://github.com/Yeachan-Heo/gajae-code">Gajae-Code</a></h3>
-<p>Coding-agent harness with planning workflows, context management, and terminal interaction.</p>
+  Built a mirror model for live Korean input and verified it on a Galaxy Z Fold7 with Samsung Keyboard.
 
-<p><strong>Long-session context recovery</strong><br />
-Hardened post-compaction continuation, reserved remote-compaction input budget, and surfaced recovery states in the TUI.<br />
-<a href="https://github.com/Yeachan-Heo/gajae-code/pull/1042">Merged · #1042</a></p>
+  [Original #7181](https://github.com/stablyai/orca/pull/7181) · [Included in merged #7273](https://github.com/stablyai/orca/pull/7273)
 
-<p><strong>Deep Interview decision gates</strong><br />
-Detected plain-text question/options leaks and guided recovery through the existing <code>ask</code> selector instead of leaving the workflow waiting.<br />
-<a href="https://github.com/Yeachan-Heo/gajae-code/pull/1075">Merged · #1075</a></p>
+### [Gajae-Code](https://github.com/Yeachan-Heo/gajae-code)
 
-</td>
-</tr>
-</table>
+Coding-agent harness with planning workflows and context management.
+
+- **Long-session context recovery** · [Merged #1042](https://github.com/Yeachan-Heo/gajae-code/pull/1042)
+
+  Hardened post-compaction continuation, reserved remote-compaction input budget, and surfaced TUI recovery states.
+
+- **Deep Interview decision gates** · [Merged #1075](https://github.com/Yeachan-Heo/gajae-code/pull/1075)
+
+  Recovered plain-text question/options leaks through the existing `ask` selector so the workflow can continue.
 
 ## AI usage
 
