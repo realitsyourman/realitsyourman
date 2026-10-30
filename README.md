@@ -12,7 +12,7 @@ Terminal UX · Korean IME · Coding-agent reliability
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-[Contributions](#open-source-contributions) · [Open proposals](#open-proposals) · [AI usage](#ai-usage)
+[Contributions](#open-source-contributions) · [AI usage](#ai-usage)
 
 </div>
 
@@ -56,15 +56,6 @@ Detected plain-text question/options leaks and guided recovery through the exist
 </td>
 </tr>
 </table>
-
-## Open proposals
-
-**Orca · Keyboard navigation between projects**  
-Proposed remappable next/previous project actions that restore each project's most recently focused worktree.
-
-[![Orca PR #6834 status](https://img.shields.io/github/pulls/detail/state/stablyai/orca/6834?style=flat-square&label=PR%20%236834)](https://github.com/stablyai/orca/pull/6834)
-
-<sub>Proposal, not a merged feature. The badge links to the current PR status.</sub>
 
 ## AI usage
 
